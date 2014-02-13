@@ -1,0 +1,13 @@
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.dll
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.pdb
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.dll.mdb
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.SQLiteExample.apk
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.SQLiteExample-Signed.apk
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\obj\Debug\SQLiteExample.dll
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\obj\Debug\SQLiteExample.pdb
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\obj\Debug\android\bin\SQLiteExample.SQLiteExample.apk
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\obj\Debug\res\layout\main.xml
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\obj\Debug\res\values\strings.xml
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\obj\Debug\res\drawable\icon.png
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\obj\Debug\R.cs.flag
+C:\Users\juan\Documents\Projects\SQLiteExample\SQLiteExample\obj\Debug\uploadflags.txt
