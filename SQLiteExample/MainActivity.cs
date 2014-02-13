@@ -1,3 +1,7 @@
+/*
+Lucio A. Flores González.
+Ejemplo con Licencia GPL.
+*/
 using System;
 using System.IO;
 using Android.App;
